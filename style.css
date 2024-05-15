@@ -32,6 +32,7 @@ html,body{
 }
 .btn:hover{
     color: #fff;
+    box-shadow: 0 0 10px dodgerblue, 0 0 50px dodgerblue, 0 0 100px dodgerblue;
 }
 .btn::before{
     content: "";
